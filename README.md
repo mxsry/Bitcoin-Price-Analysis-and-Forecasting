@@ -2,12 +2,6 @@
 
 Time series forecasting project predicting Bitcoin price using multiple data sources included market data, sentiment, and on-chain metrics.
 
-## 🎯 Project Goals
-
-- Build a reproducible data pipeline pulling from real APIs
-- Visuallize data, explore data analysis
-- Using machine learning for forecasting 
-
 ## 📊 Data Sources
 
 | Source | Data | API |
