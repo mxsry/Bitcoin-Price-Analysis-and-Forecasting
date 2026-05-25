@@ -1,12 +1,12 @@
 # Bitcoin Price Forecasting Using Real-time Datasets
 
-End-to-end time series forecasting project predicting Bitcoin price using multiple data sources included market data, sentiment, and on-chain metrics.
+Time series forecasting project predicting Bitcoin price using multiple data sources included market data, sentiment, and on-chain metrics.
 
 ## 🎯 Project Goals
 
 - Build a reproducible data pipeline pulling from real APIs
 - Visuallize data, explore data analysis
-- Compare classical, machine learning, and deep learning forecasting methods
+- Using machine learning for forecasting 
 
 ## 📊 Data Sources
 
